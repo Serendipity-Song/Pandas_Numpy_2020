@@ -3,7 +3,9 @@
 
 ## 인구
 ### 신도림 0~100세 인구 분포도
-![](https://velog.velcdn.com/images/thdalwh3867/post/005b8617-6bf4-46f7-84f9-64422270a9fd/image.png)
+
+<!-- <img src="이미지주소.png" width="200" height="400"/> -->
+<img src="https://velog.velcdn.com/images/thdalwh3867/post/005b8617-6bf4-46f7-84f9-64422270a9fd/image.png" width="200" height="400"/>
 
 ### 동네, 연령 별 인구 
 ![](https://velog.velcdn.com/images/thdalwh3867/post/d98d3425-2142-49fb-8377-b971098fc64a/image.png)
