@@ -8,12 +8,15 @@
 <img src="https://velog.velcdn.com/images/thdalwh3867/post/005b8617-6bf4-46f7-84f9-64422270a9fd/image.png" width="500"/>
 
 ### 동네, 연령 별 인구 
+
+<img src="https://velog.velcdn.com/images/thdalwh3867/post/005b8617-6bf4-46f7-84f9-64422270a9fd/image.png" width="500"/>
 ![](https://velog.velcdn.com/images/thdalwh3867/post/d98d3425-2142-49fb-8377-b971098fc64a/image.png)
 
 ## Scatter 예제
-![](https://velog.velcdn.com/images/thdalwh3867/post/cabffe52-7c52-4b8b-aa43-f80e94702ebf/image.png)
 
-![](https://velog.velcdn.com/images/thdalwh3867/post/0b2946a8-f489-4ef4-adcc-fed0e37bbab8/image.png)
+<img src="https://velog.velcdn.com/images/thdalwh3867/post/cabffe52-7c52-4b8b-aa43-f80e94702ebf/image.png" width="500"/>
+
+<img src="https://velog.velcdn.com/images/thdalwh3867/post/0b2946a8-f489-4ef4-adcc-fed0e37bbab8/image.png" width="500"/>
 
 
 
