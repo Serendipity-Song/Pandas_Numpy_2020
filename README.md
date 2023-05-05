@@ -4,13 +4,13 @@
 ## 인구
 ### 신도림 0~100세 인구 분포도
 
-<!-- <img src="이미지주소.png" width="200" height="400"/> -->
+<!-- <img src="" width="500"/> -->
+
 <img src="https://velog.velcdn.com/images/thdalwh3867/post/005b8617-6bf4-46f7-84f9-64422270a9fd/image.png" width="500"/>
 
 ### 동네, 연령 별 인구 
 
-<img src="https://velog.velcdn.com/images/thdalwh3867/post/005b8617-6bf4-46f7-84f9-64422270a9fd/image.png" width="500"/>
-![](https://velog.velcdn.com/images/thdalwh3867/post/d98d3425-2142-49fb-8377-b971098fc64a/image.png)
+<img src="https://velog.velcdn.com/images/thdalwh3867/post/d98d3425-2142-49fb-8377-b971098fc64a/image.png" width="500"/>
 
 ## Scatter 예제
 
@@ -23,13 +23,21 @@
 ## 날씨
 
 ### 매년 오늘 날씨
-![](https://velog.velcdn.com/images/thdalwh3867/post/ebc3acae-c863-44a6-abe2-6a17c1042610/image.png)
+
+<img src="https://velog.velcdn.com/images/thdalwh3867/post/ebc3acae-c863-44a6-abe2-6a17c1042610/image.png" width="500"/>
+
+
 
 ### 2020년 이후 오늘 최고 기온, 최저 기온
-![](https://velog.velcdn.com/images/thdalwh3867/post/8fd0fcf3-55a6-4c59-8efd-6c236ed10eeb/image.png)
+
+<img src="https://velog.velcdn.com/images/thdalwh3867/post/8fd0fcf3-55a6-4c59-8efd-6c236ed10eeb/image.png" width="500"/>
+
+
 
 ### 최고 기온 히스토그램
-![](https://velog.velcdn.com/images/thdalwh3867/post/a1fac6e7-660e-453d-ac38-11e3e8171005/image.png)
+
+
+<img src="https://velog.velcdn.com/images/thdalwh3867/post/a1fac6e7-660e-453d-ac38-11e3e8171005/image.png" width="500"/>
 
 
 
